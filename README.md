@@ -1,9 +1,9 @@
 Facebook(79)
 
 
-   Two Sum 23.0% Easy
+* Two Sum 23.0% Easy
 * 13 Roman to Integer 39.2% Easy
-* 20 Valid Parentheses 29.3% Easy
+* 20 Valid Parentheses 29.3% Easy                                        --------------------
 * 26 Remove Duplicates from Sorted Array 33.4% Easy
 * 28 Implement strStr() 24.8% Easy
 * 38 Count and Say 28.9% Easy
@@ -25,7 +25,7 @@ Facebook(79)
 
 
 * 15 3Sum 18.8% Medium
-* 17 Letter Combinations of a Phone Number 28.6% Medium
+* 17 Letter Combinations of a Phone Number 28.6% Medium                   --------------------
 * 43 Multiply Strings 23.4% Medium
 * 49 Group Anagrams 27.4% Medium
 * 50 Pow(x, n) 27.9% Medium
