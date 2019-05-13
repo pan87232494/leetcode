@@ -2,26 +2,26 @@ Facebook(79)
 
 
    Two Sum 23.0% Easy
-13 Roman to Integer 39.2% Easy
-20 Valid Parentheses 29.3% Easy
-26 Remove Duplicates from Sorted Array 33.4% Easy
-28 Implement strStr() 24.8% Easy
-38 Count and Say 28.9% Easy
-67 Add Binary 27.4% Easy
-88 Merge Sorted Array 30.0% Easy
-102 Binary Tree Level Order Traversal 32.7% Easy
-121 Best Time to Buy and Sell Stock 36.0% Easy
-125 Valid Palindrome 23.8% Easy
-157 Read N Characters Given Read4 29.5% Easy
-168 Excel Sheet Column Title 21.6% Easy
-206 Reverse Linked List 39.4% Easy
-234 Palindrome Linked List 28.0% Easy
-235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy
-252 Meeting Rooms 41.6% Easy
-257 Binary Tree Paths 28.4% Easy
-278 First Bad Version 22.4% Easy
-283 Move Zeroes 44.0% Easy
-325 Maximum Size Subarray Sum Equals k 39.9% Easy
+   13 Roman to Integer 39.2% Easy
+   20 Valid Parentheses 29.3% Easy
+   26 Remove Duplicates from Sorted Array 33.4% Easy
+   28 Implement strStr() 24.8% Easy
+   38 Count and Say 28.9% Easy
+   67 Add Binary 27.4% Easy
+   88 Merge Sorted Array 30.0% Easy
+   102 Binary Tree Level Order Traversal 32.7% Easy
+   121 Best Time to Buy and Sell Stock 36.0% Easy
+   125 Valid Palindrome 23.8% Easy
+   157 Read N Characters Given Read4 29.5% Easy
+   168 Excel Sheet Column Title 21.6% Easy
+   206 Reverse Linked List 39.4% Easy
+   234 Palindrome Linked List 28.0% Easy
+   235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy
+   252 Meeting Rooms 41.6% Easy
+   257 Binary Tree Paths 28.4% Easy
+   278 First Bad Version 22.4% Easy
+   283 Move Zeroes 44.0% Easy
+   325 Maximum Size Subarray Sum Equals k 39.9% Easy
 
 
 15 3Sum 18.8% Medium
