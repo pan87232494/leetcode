@@ -52,17 +52,27 @@ Input: "MCMXCIV"
 Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 """
-
-class Solution:#
+class Solution:
     def romanToInt(self, s: str) -> int:
         mapping={"I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000}
-
-        # logic 
-        # from right to left
-        # IV, XC, CM
-        # reverse
-        length=len(s)
         result=0
-        for index, value in enumerate(s):
-            #deal with boarder
+        if len(s)>1:
+            for index, value in enumerate(s):
+                #deal with boarder
+                if index==0:
+                    result+=mapping[value]
+                else:
+                    if mapping[s[index]]>mapping[s[index-1]]:
+                        result= result + mapping[s[index]]-2*mapping[s[index-1]]
+                    elif mapping[s[index]]==mapping[s[index-1]]:
+                        result= result + mapping[s[index]]
+                    else:
+                        result+=mapping[s[index]]
+            return result
+        elif len(s)==1:
+            return mapping[s]
+        else:
+            raise Exception("not roman")    
+            
+            
             
