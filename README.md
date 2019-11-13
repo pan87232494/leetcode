@@ -21,7 +21,7 @@ Facebook(79)
 * 257 Binary Tree Paths 28.4% Easy
 * 278 First Bad Version 22.4% Easy
 * 283 Move Zeroes 44.0% Easy
-* 325 Maximum Size Subarray Sum Equals k 39.9% Easy
+* 325 Maximum Size Subarray Sum Equals k 39.9% Easy  
 
 
 * 15 3Sum 18.8% Medium
@@ -61,7 +61,7 @@ Facebook(79)
 * 286 Walls and Gates 37.2% Medium
 * 311 Sparse Matrix Multiplication 47.2% Medium
 * 314 Binary Tree Vertical Order Traversal 30.3% Medium
-* 334 Increasing Triplet Subsequence 33.2% Medium
+* 334 Increasing Triplet Subsequence 33.2% Medium  
 
 
 * 10 Regular Expression Matching 22.0% Hard
